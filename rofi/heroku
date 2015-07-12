@@ -1,0 +1,6 @@
+! Colours for rofi 
+    rofi.background: #1B1B24
+    rofi.foreground: #8584AE
+    rofi.highlightbg: #1B1B24
+    rofi.highlightfg: #CECECE
+    rofi.bordercolor: #A292FF

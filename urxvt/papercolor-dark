@@ -1,0 +1,31 @@
+! Color settings
+*background: #1C1C1C
+*foreground: #D0D0D0
+
+! Default
+! 0: black
+*color0:  #262626
+*color8:  #262626
+! 1: red
+*color1:  #FF5FAF
+*color9:  #FF5FAF
+! 2: green
+*color2:  #5F875F
+*color10: #00AF5F
+! 3: yellow
+*color3:  #DFAF00
+*color11: #DFA00
+! 4: blue
+*color4:  #5FAFDF
+*color12: #5FAFDF
+! 5: magenta
+*color5:  #AF87DF
+*color13: #AF87DF
+! 6: cyan
+*color6:  #00AFAF
+*color14: #00AFAF
+! 7: white
+*color7:  #D0D0D0
+*color15: #D0D0D0
+URxvt*font:            xft:PragmataPro For Powerline:size=13
+URxvt*scrolldColor:        #000000
